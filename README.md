@@ -35,13 +35,10 @@ Me nome completo é Isabelly Rodrigues da Costa, tenho 19 anos, nascida em São 
 
 <p align="center">
   <a href="https://github.com/BellyZa?tab=repositories&sort=stargazers">
-    <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://img.shields.io/github/stars/BellyZa?style=for-the-badge&label=Estrelas&color=880202&labelColor=600101&logo=star&logoColor=ffffff" />
-  </a>
-  <a href="https://github.com/BellyZa">
-    <img alt="Total de Visualizações" title="Total de Visualizações no GitHub" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Visuali%C3%A7%C3%B5es&color=880202&labelColor=600101&logo=eye&logoColor=ffffff&query=value&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2FBellyZa-profile%2Fviews%2Fup" />
+    <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BellyZa?color=880202&style=for-the-badge&labelColor=600101&logo=star&logoColor=ffffff&label=Estrelas" />
   </a>
   <a href="https://github.com/BellyZa?tab=followers">
-    <img alt="Seguidores" title="Seguidores no GitHub" src="https://img.shields.io/github/followers/BellyZa?style=for-the-badge&label=Seguidores&color=880202&labelColor=600101&logo=person&logoColor=ffffff" />
+    <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BellyZa?color=880202&style=for-the-badge&labelColor=600101&logo=person&logoColor=ffffff&label=Seguidores" />
   </a>
 </p>
   
