@@ -52,7 +52,30 @@ Me nome completo é Isabelly Rodrigues da Costa, tenho 19 anos, nascida em São 
   
 ---
 
-Linguagens de programação
+<div align="center">
+    <details open>
+        <summary style="list-style: none;">
+            <h2><samp>Linguagens de Programação ( •̀ ω •́ )✧</samp></h2>
+        </summary>
+    </details>
+</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,html,js,py" />
+  </a>
+</p>
 
+<div align="center">
+    <details open>
+        <summary style="list-style: none;">
+            <h2><samp>Ferramentas []~(￣▽￣)~*</samp></h2>
+        </summary>
+    </details>
+</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,github,gcp,mysql,notion,robloxstudio,vscode,windows" />
+  </a>
+</p>
