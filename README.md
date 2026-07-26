@@ -34,12 +34,20 @@ Me nome completo é Isabelly Rodrigues da Costa, tenho 19 anos, nascida em São 
 <br>
 
 <p align="center">
-  <a href="https://github.com/BellyZa?tab=repositories&sort=stargazers">
-    <img alt="Total de Estrelas" title="Total de Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BellyZa?color=880202&style=for-the-badge&labelColor=600101&logo=star&logoColor=ffffff&label=Estrelas" />
-  </a>
-  <a href="https://github.com/BellyZa?tab=followers">
-    <img alt="Seguidores" title="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BellyZa?color=880202&style=for-the-badge&labelColor=600101&logo=person&logoColor=ffffff&label=Seguidores" />
-  </a>
+    <a href="https://github.com/BellyZa?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/BellyZa?color=7E0303&style=for-the-badge&labelColor=880202&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/BellyZa?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/BellyZa?color=7E0303&labelColor=880202&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
   
 ---
