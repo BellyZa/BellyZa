@@ -28,7 +28,7 @@
             <h2><samp>Sobre mim... (❁´◡`❁)</samp></h2>
         </summary>
     </details>
-Me nome completo é Isabelly Rodrigues da Costa, tenho 19 anos, nascida em São Paulo. Atualmente estou cursando Ciência da Computação no Mackenzie. Sou apaixonada em diversas áreas da tecnologia e amo aprender todas elas. Me interesso desenvolver-me em Full-Stack, Cibersegurança, Análise de Dados, Inteligência Artificial e como hobbie não profissionalizante brinco com Iot, Sistemas Embarcados e Robótica.
+Meu nome completo é Isabelly Rodrigues da Costa, tenho 19 anos, nascida em São Paulo. Atualmente estou cursando Ciência da Computação no Mackenzie. Sou apaixonada por diversas áreas da tecnologia e amo aprender todas elas. Interesso-me em desenvolver-me em Análise de Dados (meu principal foco profissional), Full-Stack, Cibersegurança, Inteligência Artificial e, como hobby não profissionalizante, aventuro-me em desenvolver projetos com IoT, Sistemas Embarcados e Robótica.
 </div>
 
 <br>
